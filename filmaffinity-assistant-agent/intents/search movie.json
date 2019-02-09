@@ -1,0 +1,61 @@
+{
+  "id": "04aac688-b44a-4a22-a68e-ae9aaf22a3be",
+  "name": "search movie",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "searchmovie-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "007f9c94-9b61-4f6b-b131-c9b663b518b4",
+          "required": false,
+          "dataType": "@sys.any",
+          "name": "query",
+          "value": "$query",
+          "prompts": [
+            {
+              "lang": "es",
+              "value": "¿Cuál es el título de la película que quieres buscar?"
+            },
+            {
+              "lang": "es",
+              "value": "Perdona, creo que no he entendido el título. ¿Puedes repetir?"
+            },
+            {
+              "lang": "es",
+              "value": "Disculpa, no te he oído bien. ¿Decías?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548785845,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_OPTION"
+    }
+  ]
+}

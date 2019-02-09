@@ -1,0 +1,74 @@
+[
+  {
+    "id": "3cb3ba90-b525-48dd-8d85-0f8980df2f06",
+    "data": [
+      {
+        "text": "de qué trata",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548790243
+  },
+  {
+    "id": "609affc4-62c6-48a3-a387-22b2ed728e6a",
+    "data": [
+      {
+        "text": "de qué va",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548790243
+  },
+  {
+    "id": "5b8cbb28-9a4c-4e2a-aefc-78bc106d0708",
+    "data": [
+      {
+        "text": "cuál es la sinopsis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548790243
+  },
+  {
+    "id": "aee62060-b778-4f5a-ab8b-8676e489e47f",
+    "data": [
+      {
+        "text": "dime la sinopsis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548790243
+  },
+  {
+    "id": "b254ad33-28e7-4247-8068-12379b67e885",
+    "data": [
+      {
+        "text": "oír la sinopsis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548790243
+  },
+  {
+    "id": "ca27e14e-5fb9-450b-abcd-38fc6536811d",
+    "data": [
+      {
+        "text": "sinopsis",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548790243
+  }
+]

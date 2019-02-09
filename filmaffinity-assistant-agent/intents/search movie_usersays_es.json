@@ -1,0 +1,128 @@
+[
+  {
+    "id": "55ab3dc1-dcbd-4af6-9277-b0f8f8231d63",
+    "data": [
+      {
+        "text": "háblame acerca de ",
+        "userDefined": false
+      },
+      {
+        "text": "Aladdin",
+        "alias": "query",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548785845
+  },
+  {
+    "id": "e7064b87-bdb5-44e2-881c-845c352d285e",
+    "data": [
+      {
+        "text": "qué sabes de ",
+        "userDefined": false
+      },
+      {
+        "text": "E.T.",
+        "alias": "query",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548785845
+  },
+  {
+    "id": "22f5670e-7f36-4bad-88c8-3a9031b45fcc",
+    "data": [
+      {
+        "text": "qué sabes acerca de ",
+        "userDefined": false
+      },
+      {
+        "text": "American Psycho",
+        "alias": "query",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548785845
+  },
+  {
+    "id": "ac93d335-19ce-4ba7-b31c-eabf1680d18b",
+    "data": [
+      {
+        "text": "háblame sobre ",
+        "userDefined": false
+      },
+      {
+        "text": "Tiburón",
+        "alias": "query",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548785845
+  },
+  {
+    "id": "80818c7b-3930-4de9-8a29-6cb1a98f4ba3",
+    "data": [
+      {
+        "text": "quiero buscar ",
+        "userDefined": false
+      },
+      {
+        "text": "Indiana Jones",
+        "alias": "query",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1548785845
+  },
+  {
+    "id": "a0278bfd-855c-41a2-b3c5-59d09a701f78",
+    "data": [
+      {
+        "text": "búscame ",
+        "userDefined": false
+      },
+      {
+        "text": "Matrix",
+        "alias": "query",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548785845
+  },
+  {
+    "id": "c40f43e1-d286-4449-ad17-1e13cc856808",
+    "data": [
+      {
+        "text": "buscar ",
+        "userDefined": false
+      },
+      {
+        "text": "Origen",
+        "alias": "query",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548099059
+  }
+]

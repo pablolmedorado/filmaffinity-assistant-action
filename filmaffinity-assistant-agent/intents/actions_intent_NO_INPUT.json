@@ -1,0 +1,38 @@
+{
+  "id": "fb49eaaf-6d10-44f2-a0b4-dac595c3efcf",
+  "name": "actions_intent_NO_INPUT",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Hola, ¿sigues ahí?",
+            "¿Estás ahí, mi vida? ¿Me oyes? ¿Me escuchas? ¿Me sientes?",
+            "Odio ser ignorada.",
+            "Me tienes olvidada.",
+            "No me dejes aquí sola."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548705973,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_NO_INPUT"
+    }
+  ]
+}

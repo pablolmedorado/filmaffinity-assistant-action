@@ -1,0 +1,28 @@
+{
+  "id": "4e23dcc1-174a-4a33-8914-952ed459b79d",
+  "name": "actions_intent_HELP",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": "Por el momento, la única funcionalidad disponible es la de buscar películas. Di \"buscar\" seguido del título de la película para iniciar la búsqueda. Una vez tengas el resultado puedes pedir información más concreta como sinopsis, premios, reparto, etcétera."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548792315,
+  "fallbackIntent": false,
+  "events": []
+}

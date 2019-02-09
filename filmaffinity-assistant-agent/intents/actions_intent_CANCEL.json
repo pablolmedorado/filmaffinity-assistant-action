@@ -1,0 +1,36 @@
+{
+  "id": "574e505f-801f-45e7-a190-683b753b2352",
+  "name": "actions_intent_CANCEL",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": [
+            "Perfecto, vuelve cuando quieras.",
+            "Genial. ¡Hasta la próxima!",
+            "Te echaré de menos. ¡Vuelve pronto!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1548792355,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "actions_intent_CANCEL"
+    }
+  ]
+}

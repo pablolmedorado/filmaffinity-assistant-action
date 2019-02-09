@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c379d725-6b0c-40c1-930f-df839884de9c",
+    "data": [
+      {
+        "text": "Necesito ayuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548614799
+  },
+  {
+    "id": "5041d4b7-5c31-46af-ac86-76d70dec3b28",
+    "data": [
+      {
+        "text": "Ayúdame",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548614799
+  },
+  {
+    "id": "4639c3c7-8ef8-4d4e-8bcf-355147892726",
+    "data": [
+      {
+        "text": "Ayuda",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1548614799
+  }
+]

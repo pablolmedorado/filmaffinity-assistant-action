@@ -1,0 +1,139 @@
+[
+  {
+    "value": "acción",
+    "synonyms": [
+      "acción"
+    ]
+  },
+  {
+    "value": "animación",
+    "synonyms": [
+      "animación",
+      "dibujos animados",
+      "dibujitos",
+      "dibujos"
+    ]
+  },
+  {
+    "value": "aventuras",
+    "synonyms": [
+      "aventuras"
+    ]
+  },
+  {
+    "value": "bélico",
+    "synonyms": [
+      "bélico",
+      "guerra",
+      "de guerra"
+    ]
+  },
+  {
+    "value": "ciencia ficción",
+    "synonyms": [
+      "ciencia ficción",
+      "SciFi",
+      "Sci-Fi"
+    ]
+  },
+  {
+    "value": "cine negro",
+    "synonyms": [
+      "cine negro"
+    ]
+  },
+  {
+    "value": "comedia",
+    "synonyms": [
+      "comedia"
+    ]
+  },
+  {
+    "value": "desconocido",
+    "synonyms": [
+      "desconocido",
+      "sin género"
+    ]
+  },
+  {
+    "value": "documental",
+    "synonyms": [
+      "documental"
+    ]
+  },
+  {
+    "value": "drama",
+    "synonyms": [
+      "drama"
+    ]
+  },
+  {
+    "value": "fantástico",
+    "synonyms": [
+      "fantástico",
+      "fantástica"
+    ]
+  },
+  {
+    "value": "infantil",
+    "synonyms": [
+      "infantil"
+    ]
+  },
+  {
+    "value": "intriga",
+    "synonyms": [
+      "intriga",
+      "suspense"
+    ]
+  },
+  {
+    "value": "musical",
+    "synonyms": [
+      "musical"
+    ]
+  },
+  {
+    "value": "romance",
+    "synonyms": [
+      "romance",
+      "amor"
+    ]
+  },
+  {
+    "value": "serie de TV",
+    "synonyms": [
+      "serie de TV",
+      "serie",
+      "serie de televisión"
+    ]
+  },
+  {
+    "value": "terror",
+    "synonyms": [
+      "terror",
+      "miedo"
+    ]
+  },
+  {
+    "value": "thriller",
+    "synonyms": [
+      "thriller"
+    ]
+  },
+  {
+    "value": "western",
+    "synonyms": [
+      "western",
+      "oeste",
+      "del oeste"
+    ]
+  },
+  {
+    "value": "todos",
+    "synonyms": [
+      "todos",
+      "cualquiera"
+    ]
+  }
+]
