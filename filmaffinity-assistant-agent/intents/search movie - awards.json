@@ -1,0 +1,33 @@
+{
+  "id": "1c657371-5de2-4914-aaed-48c1b2bd8119",
+  "parentId": "04aac688-b44a-4a22-a68e-ae9aaf22a3be",
+  "rootParentId": "04aac688-b44a-4a22-a68e-ae9aaf22a3be",
+  "name": "search movie - awards",
+  "auto": true,
+  "contexts": [
+    "searchmovie-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "searchmovie.searchmovie-awards",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1549700957,
+  "fallbackIntent": false,
+  "events": []
+}

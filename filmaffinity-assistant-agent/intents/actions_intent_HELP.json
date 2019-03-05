@@ -12,17 +12,17 @@
         {
           "type": 0,
           "lang": "es",
-          "speech": "Por el momento, la única funcionalidad disponible es la de buscar películas. Di \"buscar\" seguido del título de la película para iniciar la búsqueda. Una vez tengas el resultado puedes pedir información más concreta como sinopsis, premios, reparto, etcétera."
+          "speech": "Por el momento, las únicas funcionalidades disponibles son las de buscar películas y generar tops de películas. Di \"buscar\" seguido del título de la película para iniciar la búsqueda. Una vez tengas el resultado puedes pedir información más concreta como sinopsis y premios. Para generar un top de películas di \"top\" seguido de los criterios de búsqueda que desees incluir. Puedes pedir tops por países, géneros, años o todo a la vez. Para salir, usa \"salir\" o \"cancelar\"."
         }
       ],
       "defaultResponsePlatforms": {},
       "speech": []
     }
   ],
-  "priority": 500000,
+  "priority": 750000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1548792315,
+  "lastUpdate": 1551639775,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,27 +1,23 @@
 [
   {
-    "value": "Todos los países",
-    "synonyms": [
-      "Todos los países",
-      "Todos"
-    ]
-  },
-  {
     "value": "Afganistán",
     "synonyms": [
-      "Afganistán"
+      "Afganistán",
+      "afganesas"
     ]
   },
   {
     "value": "Albania",
     "synonyms": [
-      "Albania"
+      "Albania",
+      "albanesas"
     ]
   },
   {
     "value": "Alemania",
     "synonyms": [
-      "Alemania"
+      "Alemania",
+      "alemanas"
     ]
   },
   {
@@ -39,13 +35,15 @@
   {
     "value": "Andorra",
     "synonyms": [
-      "Andorra"
+      "Andorra",
+      "andorranas"
     ]
   },
   {
     "value": "Angola",
     "synonyms": [
-      "Angola"
+      "Angola",
+      "angoleñas"
     ]
   },
   {
@@ -63,19 +61,22 @@
   {
     "value": "Argelia",
     "synonyms": [
-      "Argelia"
+      "Argelia",
+      "argelinas"
     ]
   },
   {
     "value": "Argentina",
     "synonyms": [
-      "Argentina"
+      "Argentina",
+      "argentinas"
     ]
   },
   {
     "value": "Armenia",
     "synonyms": [
-      "Armenia"
+      "Armenia",
+      "armenias"
     ]
   },
   {
@@ -87,13 +88,15 @@
   {
     "value": "Australia",
     "synonyms": [
-      "Australia"
+      "Australia",
+      "australianas"
     ]
   },
   {
     "value": "Austria",
     "synonyms": [
-      "Austria"
+      "Austria",
+      "austriacas"
     ]
   },
   {
@@ -129,7 +132,8 @@
   {
     "value": "Bélgica",
     "synonyms": [
-      "Bélgica"
+      "Bélgica",
+      "belgas"
     ]
   },
   {
@@ -147,19 +151,22 @@
   {
     "value": "Bielorrusia",
     "synonyms": [
-      "Bielorrusia"
+      "Bielorrusia",
+      "bielorrusas"
     ]
   },
   {
     "value": "Bolivia",
     "synonyms": [
-      "Bolivia"
+      "Bolivia",
+      "bolivianas"
     ]
   },
   {
     "value": "Bosnia y Herzegovina",
     "synonyms": [
-      "Bosnia y Herzegovina"
+      "Bosnia y Herzegovina",
+      "bosnias"
     ]
   },
   {
@@ -171,7 +178,8 @@
   {
     "value": "Brasil",
     "synonyms": [
-      "Brasil"
+      "Brasil",
+      "brasileñas"
     ]
   },
   {
@@ -183,7 +191,8 @@
   {
     "value": "Bulgaria",
     "synonyms": [
-      "Bulgaria"
+      "Bulgaria",
+      "búlgaras"
     ]
   },
   {
@@ -213,19 +222,22 @@
   {
     "value": "Camboya",
     "synonyms": [
-      "Camboya"
+      "Camboya",
+      "camboyanas"
     ]
   },
   {
     "value": "Camerún",
     "synonyms": [
-      "Camerún"
+      "Camerún",
+      "cameruneses"
     ]
   },
   {
     "value": "Canadá",
     "synonyms": [
-      "Canadá"
+      "Canadá",
+      "canadienses"
     ]
   },
   {
@@ -237,31 +249,36 @@
   {
     "value": "Checoslovaquia",
     "synonyms": [
-      "Checoslovaquia"
+      "Checoslovaquia",
+      "checoslovacas"
     ]
   },
   {
     "value": "Chile",
     "synonyms": [
-      "Chile"
+      "Chile",
+      "chilenas"
     ]
   },
   {
     "value": "China",
     "synonyms": [
-      "China"
+      "China",
+      "chinas"
     ]
   },
   {
     "value": "Chipre",
     "synonyms": [
-      "Chipre"
+      "Chipre",
+      "chipriotas"
     ]
   },
   {
     "value": "Colombia",
     "synonyms": [
-      "Colombia"
+      "Colombia",
+      "colombianas"
     ]
   },
   {
@@ -273,13 +290,15 @@
   {
     "value": "Congo",
     "synonyms": [
-      "Congo"
+      "Congo",
+      "congoleñas"
     ]
   },
   {
     "value": "Corea",
     "synonyms": [
-      "Corea"
+      "Corea",
+      "coreanas"
     ]
   },
   {
@@ -303,19 +322,22 @@
   {
     "value": "Costa Rica",
     "synonyms": [
-      "Costa Rica"
+      "Costa Rica",
+      "costarricenses"
     ]
   },
   {
     "value": "Croacia",
     "synonyms": [
-      "Croacia"
+      "Croacia",
+      "croatas"
     ]
   },
   {
     "value": "Cuba",
     "synonyms": [
-      "Cuba"
+      "Cuba",
+      "cubanas"
     ]
   },
   {
@@ -333,19 +355,22 @@
   {
     "value": "Ecuador",
     "synonyms": [
-      "Ecuador"
+      "Ecuador",
+      "ecuatorianas"
     ]
   },
   {
     "value": "Egipto",
     "synonyms": [
-      "Egipto"
+      "Egipto",
+      "egipcias"
     ]
   },
   {
     "value": "El Salvador",
     "synonyms": [
-      "El Salvador"
+      "El Salvador",
+      "salvadoreñas"
     ]
   },
   {
@@ -363,37 +388,44 @@
   {
     "value": "Eslovaquia",
     "synonyms": [
-      "Eslovaquia"
+      "Eslovaquia",
+      "eslovacas"
     ]
   },
   {
     "value": "Eslovenia",
     "synonyms": [
-      "Eslovenia"
+      "Eslovenia",
+      "eslovenas"
     ]
   },
   {
     "value": "España",
     "synonyms": [
-      "España"
+      "España",
+      "españolas"
     ]
   },
   {
     "value": "Estados Unidos",
     "synonyms": [
-      "Estados Unidos"
+      "Estados Unidos",
+      "americanas",
+      "estadounidenses"
     ]
   },
   {
     "value": "Estonia",
     "synonyms": [
-      "Estonia"
+      "Estonia",
+      "estonias"
     ]
   },
   {
     "value": "Etiopía",
     "synonyms": [
-      "Etiopía"
+      "Etiopía",
+      "etíopes"
     ]
   },
   {
@@ -405,19 +437,22 @@
   {
     "value": "Filipinas",
     "synonyms": [
-      "Filipinas"
+      "Filipinas",
+      "filipinas"
     ]
   },
   {
     "value": "Finlandia",
     "synonyms": [
-      "Finlandia"
+      "Finlandia",
+      "finlandesas"
     ]
   },
   {
     "value": "Francia",
     "synonyms": [
-      "Francia"
+      "Francia",
+      "francesas"
     ]
   },
   {
@@ -441,7 +476,8 @@
   {
     "value": "Ghana",
     "synonyms": [
-      "Ghana"
+      "Ghana",
+      "ghanesas"
     ]
   },
   {
@@ -453,7 +489,8 @@
   {
     "value": "Grecia",
     "synonyms": [
-      "Grecia"
+      "Grecia",
+      "griegas"
     ]
   },
   {
@@ -465,13 +502,15 @@
   {
     "value": "Guatemala",
     "synonyms": [
-      "Guatemala"
+      "Guatemala",
+      "guatemaltecas"
     ]
   },
   {
     "value": "Guinea",
     "synonyms": [
-      "Guinea"
+      "Guinea",
+      "guineanas"
     ]
   },
   {
@@ -495,13 +534,15 @@
   {
     "value": "Haití",
     "synonyms": [
-      "Haití"
+      "Haití",
+      "haitianas"
     ]
   },
   {
     "value": "Honduras",
     "synonyms": [
-      "Honduras"
+      "Honduras",
+      "hondureñas"
     ]
   },
   {
@@ -513,19 +554,22 @@
   {
     "value": "Hungría",
     "synonyms": [
-      "Hungría"
+      "Hungría",
+      "húngaras"
     ]
   },
   {
     "value": "India",
     "synonyms": [
-      "India"
+      "India",
+      "indias"
     ]
   },
   {
     "value": "Indonesia",
     "synonyms": [
-      "Indonesia"
+      "Indonesia",
+      "indonesias"
     ]
   },
   {
@@ -537,49 +581,57 @@
   {
     "value": "Irán",
     "synonyms": [
-      "Irán"
+      "Irán",
+      "iraníes"
     ]
   },
   {
     "value": "Irlanda",
     "synonyms": [
-      "Irlanda"
+      "Irlanda",
+      "irlandesas"
     ]
   },
   {
     "value": "Islandia",
     "synonyms": [
-      "Islandia"
+      "Islandia",
+      "islandesas"
     ]
   },
   {
     "value": "Israel",
     "synonyms": [
-      "Israel"
+      "Israel",
+      "israelíes"
     ]
   },
   {
     "value": "Italia",
     "synonyms": [
-      "Italia"
+      "Italia",
+      "italianas"
     ]
   },
   {
     "value": "Jamaica",
     "synonyms": [
-      "Jamaica"
+      "Jamaica",
+      "jamaicanas"
     ]
   },
   {
     "value": "Japón",
     "synonyms": [
-      "Japón"
+      "Japón",
+      "japonesas"
     ]
   },
   {
     "value": "Jordania",
     "synonyms": [
-      "Jordania"
+      "Jordania",
+      "jordanas"
     ]
   },
   {
@@ -591,7 +643,8 @@
   {
     "value": "Kenia",
     "synonyms": [
-      "Kenia"
+      "Kenia",
+      "keniatas"
     ]
   },
   {
@@ -609,7 +662,8 @@
   {
     "value": "Kuwait",
     "synonyms": [
-      "Kuwait"
+      "Kuwait",
+      "kuwaitíes"
     ]
   },
   {
@@ -627,13 +681,15 @@
   {
     "value": "Letonia",
     "synonyms": [
-      "Letonia"
+      "Letonia",
+      "letonas"
     ]
   },
   {
     "value": "Líbano",
     "synonyms": [
-      "Líbano"
+      "Líbano",
+      "libanesas"
     ]
   },
   {
@@ -645,7 +701,8 @@
   {
     "value": "Libia",
     "synonyms": [
-      "Libia"
+      "Libia",
+      "libias"
     ]
   },
   {
@@ -657,7 +714,8 @@
   {
     "value": "Lituania",
     "synonyms": [
-      "Lituania"
+      "Lituania",
+      "lituanas"
     ]
   },
   {
@@ -675,7 +733,8 @@
   {
     "value": "Macedonia",
     "synonyms": [
-      "Macedonia"
+      "Macedonia",
+      "macedonias"
     ]
   },
   {
@@ -687,7 +746,8 @@
   {
     "value": "Malasia",
     "synonyms": [
-      "Malasia"
+      "Malasia",
+      "malasias"
     ]
   },
   {
@@ -711,13 +771,15 @@
   {
     "value": "Malta",
     "synonyms": [
-      "Malta"
+      "Malta",
+      "maltesas"
     ]
   },
   {
     "value": "Marruecos",
     "synonyms": [
-      "Marruecos"
+      "Marruecos",
+      "marroquíes"
     ]
   },
   {
@@ -737,7 +799,8 @@
   {
     "value": "Mauritania",
     "synonyms": [
-      "Mauritania"
+      "Mauritania",
+      "mauritanas"
     ]
   },
   {
@@ -756,31 +819,36 @@
   {
     "value": "Moldavia",
     "synonyms": [
-      "Moldavia"
+      "Moldavia",
+      "moldavas"
     ]
   },
   {
     "value": "Mónaco",
     "synonyms": [
-      "Mónaco"
+      "Mónaco",
+      "monegascas"
     ]
   },
   {
     "value": "Mongolia",
     "synonyms": [
-      "Mongolia"
+      "Mongolia",
+      "mongolas"
     ]
   },
   {
     "value": "Montenegro",
     "synonyms": [
-      "Montenegro"
+      "Montenegro",
+      "montenegrinas"
     ]
   },
   {
     "value": "Mozambique",
     "synonyms": [
-      "Mozambique"
+      "Mozambique",
+      "mozambiqueñas"
     ]
   },
   {
@@ -799,13 +867,15 @@
   {
     "value": "Nepal",
     "synonyms": [
-      "Nepal"
+      "Nepal",
+      "nepalíes"
     ]
   },
   {
     "value": "Nicaragua",
     "synonyms": [
-      "Nicaragua"
+      "Nicaragua",
+      "nicaragüenses"
     ]
   },
   {
@@ -817,19 +887,22 @@
   {
     "value": "Nigeria",
     "synonyms": [
-      "Nigeria"
+      "Nigeria",
+      "nigerianas"
     ]
   },
   {
     "value": "Noruega",
     "synonyms": [
-      "Noruega"
+      "Noruega",
+      "noruegas"
     ]
   },
   {
     "value": "Nueva Zelanda",
     "synonyms": [
-      "Nueva Zelanda"
+      "Nueva Zelanda",
+      "neozelandesas"
     ]
   },
   {
@@ -842,7 +915,8 @@
     "value": "Países Bajos",
     "synonyms": [
       "Países Bajos",
-      "Holanda"
+      "Holanda",
+      "holandesas"
     ]
   },
   {
@@ -854,13 +928,15 @@
   {
     "value": "Palestina",
     "synonyms": [
-      "Palestina"
+      "Palestina",
+      "palestinas"
     ]
   },
   {
     "value": "Panamá",
     "synonyms": [
-      "Panamá"
+      "Panamá",
+      "panameñas"
     ]
   },
   {
@@ -872,49 +948,57 @@
   {
     "value": "Paquistán",
     "synonyms": [
-      "Paquistán"
+      "Paquistán",
+      "paquistaníes"
     ]
   },
   {
     "value": "Paraguay",
     "synonyms": [
-      "Paraguay"
+      "Paraguay",
+      "paraguayas"
     ]
   },
   {
     "value": "Perú",
     "synonyms": [
-      "Perú"
+      "Perú",
+      "peruanas"
     ]
   },
   {
     "value": "Polonia",
     "synonyms": [
-      "Polonia"
+      "Polonia",
+      "polacas"
     ]
   },
   {
     "value": "Portugal",
     "synonyms": [
-      "Portugal"
+      "Portugal",
+      "portuguesas"
     ]
   },
   {
     "value": "Puerto Rico",
     "synonyms": [
-      "Puerto Rico"
+      "Puerto Rico",
+      "puertorriqueñas"
     ]
   },
   {
     "value": "Qatar",
     "synonyms": [
-      "Qatar"
+      "Qatar",
+      "cataríes"
     ]
   },
   {
     "value": "Reino Unido",
     "synonyms": [
-      "Reino Unido"
+      "Reino Unido",
+      "inglesas"
     ]
   },
   {
@@ -932,13 +1016,15 @@
   {
     "value": "República Dominicana",
     "synonyms": [
-      "República Dominicana"
+      "República Dominicana",
+      "dominicanas"
     ]
   },
   {
     "value": "República Checa",
     "synonyms": [
-      "República Checa"
+      "República Checa",
+      "checas"
     ]
   },
   {
@@ -956,13 +1042,15 @@
   {
     "value": "Rumanía",
     "synonyms": [
-      "Rumanía"
+      "Rumanía",
+      "rumanas"
     ]
   },
   {
     "value": "Rusia",
     "synonyms": [
-      "Rusia"
+      "Rusia",
+      "rusas"
     ]
   },
   {
@@ -992,7 +1080,8 @@
   {
     "value": "Serbia",
     "synonyms": [
-      "Serbia"
+      "Serbia",
+      "serbias"
     ]
   },
   {
@@ -1022,13 +1111,15 @@
   {
     "value": "Siria",
     "synonyms": [
-      "Siria"
+      "Siria",
+      "sirias"
     ]
   },
   {
     "value": "Somalia",
     "synonyms": [
-      "Somalia"
+      "Somalia",
+      "somalíes"
     ]
   },
   {
@@ -1040,7 +1131,8 @@
   {
     "value": "Sudáfrica",
     "synonyms": [
-      "Sudáfrica"
+      "Sudáfrica",
+      "sudafricanas"
     ]
   },
   {
@@ -1058,13 +1150,15 @@
   {
     "value": "Suecia",
     "synonyms": [
-      "Suecia"
+      "Suecia",
+      "suecas"
     ]
   },
   {
     "value": "Suiza",
     "synonyms": [
-      "Suiza"
+      "Suiza",
+      "suizas"
     ]
   },
   {
@@ -1082,13 +1176,15 @@
   {
     "value": "Tailandia",
     "synonyms": [
-      "Tailandia"
+      "Tailandia",
+      "tailandesas"
     ]
   },
   {
     "value": "Taiwán",
     "synonyms": [
-      "Taiwán"
+      "Taiwán",
+      "taiwanesas"
     ]
   },
   {
@@ -1124,7 +1220,8 @@
   {
     "value": "Túnez",
     "synonyms": [
-      "Túnez"
+      "Túnez",
+      "tunecinas"
     ]
   },
   {
@@ -1136,13 +1233,15 @@
   {
     "value": "Turquía",
     "synonyms": [
-      "Turquía"
+      "Turquía",
+      "turcas"
     ]
   },
   {
     "value": "Ucrania",
     "synonyms": [
-      "Ucrania"
+      "Ucrania",
+      "ucranianas"
     ]
   },
   {
@@ -1160,13 +1259,15 @@
   {
     "value": "Uruguay",
     "synonyms": [
-      "Uruguay"
+      "Uruguay",
+      "uruguayas"
     ]
   },
   {
     "value": "Uzbekistan",
     "synonyms": [
-      "Uzbekistan"
+      "Uzbekistan",
+      "uzbecas"
     ]
   },
   {
@@ -1178,25 +1279,29 @@
   {
     "value": "Venezuela",
     "synonyms": [
-      "Venezuela"
+      "Venezuela",
+      "vemezolanas"
     ]
   },
   {
     "value": "Vietnam",
     "synonyms": [
-      "Vietnam"
+      "Vietnam",
+      "vietnamitas"
     ]
   },
   {
     "value": "Yemen",
     "synonyms": [
-      "Yemen"
+      "Yemen",
+      "yemeníes"
     ]
   },
   {
     "value": "Yugoslavia",
     "synonyms": [
-      "Yugoslavia"
+      "Yugoslavia",
+      "yugoslavas"
     ]
   },
   {
@@ -1208,7 +1313,8 @@
   {
     "value": "Zimbabwe",
     "synonyms": [
-      "Zimbabwe"
+      "Zimbabwe",
+      "zimbabuenses"
     ]
   }
 ]

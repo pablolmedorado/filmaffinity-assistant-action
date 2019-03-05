@@ -23,10 +23,10 @@
       "speech": []
     }
   ],
-  "priority": 500000,
+  "priority": 750000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1548792355,
+  "lastUpdate": 1551634778,
   "fallbackIntent": false,
   "events": [
     {

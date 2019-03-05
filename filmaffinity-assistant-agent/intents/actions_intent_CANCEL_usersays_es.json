@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a9d9fafb-9cad-424b-a2f7-e329cc90cb35",
+    "data": [
+      {
+        "text": "Salir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634778
+  },
+  {
+    "id": "f2403d28-0075-4470-b2f7-4deb490fc599",
+    "data": [
+      {
+        "text": "Cancelar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634778
+  }
+]

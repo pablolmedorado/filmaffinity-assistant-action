@@ -1,0 +1,332 @@
+[
+  {
+    "id": "3b93a032-49ec-4792-b1af-11a216a66807",
+    "data": [
+      {
+        "text": "top películas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634407
+  },
+  {
+    "id": "9f1044c6-c805-4633-8b73-2544d13aac4d",
+    "data": [
+      {
+        "text": "top ",
+        "userDefined": false
+      },
+      {
+        "text": "comedia",
+        "alias": "genre",
+        "meta": "@genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634407
+  },
+  {
+    "id": "2e7d8ef1-31d5-4f56-9880-31329d93221d",
+    "data": [
+      {
+        "text": "top ",
+        "userDefined": false
+      },
+      {
+        "text": "grecia",
+        "alias": "country",
+        "meta": "@country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634407
+  },
+  {
+    "id": "35c71837-9a6c-4b7a-8d08-7a94198a26f2",
+    "data": [
+      {
+        "text": "top películas de ",
+        "userDefined": false
+      },
+      {
+        "text": "drama",
+        "alias": "genre",
+        "meta": "@genre",
+        "userDefined": false
+      },
+      {
+        "text": " de ",
+        "userDefined": false
+      },
+      {
+        "text": "Portugal",
+        "alias": "country",
+        "meta": "@country",
+        "userDefined": false
+      },
+      {
+        "text": " desde ",
+        "userDefined": false
+      },
+      {
+        "text": "1950",
+        "alias": "yearFrom",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " hasta ",
+        "userDefined": false
+      },
+      {
+        "text": "1975",
+        "alias": "yearTo",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634407
+  },
+  {
+    "id": "4a4b7df2-4f67-4fa6-9324-44581cc1949c",
+    "data": [
+      {
+        "text": "top de películas de ",
+        "userDefined": false
+      },
+      {
+        "text": "miedo",
+        "alias": "genre",
+        "meta": "@genre",
+        "userDefined": false
+      },
+      {
+        "text": " desde ",
+        "userDefined": false
+      },
+      {
+        "text": "1990",
+        "alias": "yearFrom",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " hasta ",
+        "userDefined": false
+      },
+      {
+        "text": "2015",
+        "alias": "yearTo",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634407
+  },
+  {
+    "id": "fdefd0e2-137e-4fe6-be53-065c7a166513",
+    "data": [
+      {
+        "text": "top de películas de ",
+        "userDefined": false
+      },
+      {
+        "text": "miedo",
+        "alias": "genre",
+        "meta": "@genre",
+        "userDefined": false
+      },
+      {
+        "text": " hasta ",
+        "userDefined": false
+      },
+      {
+        "text": "1960",
+        "alias": "yearTo",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634407
+  },
+  {
+    "id": "325de786-6090-43ea-8996-d7cb0e3c51cf",
+    "data": [
+      {
+        "text": "top ",
+        "userDefined": false
+      },
+      {
+        "text": "ciencia ficción",
+        "alias": "genre",
+        "meta": "@genre",
+        "userDefined": false
+      },
+      {
+        "text": " desde ",
+        "userDefined": false
+      },
+      {
+        "text": "1980",
+        "alias": "yearFrom",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634407
+  },
+  {
+    "id": "25babf4c-a8e9-4007-9a86-d5652065ee77",
+    "data": [
+      {
+        "text": "top de películas de ",
+        "userDefined": false
+      },
+      {
+        "text": "francia",
+        "alias": "country",
+        "meta": "@country",
+        "userDefined": false
+      },
+      {
+        "text": " entre ",
+        "userDefined": false
+      },
+      {
+        "text": "1960",
+        "alias": "yearFrom",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "1980",
+        "alias": "yearTo",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634407
+  },
+  {
+    "id": "4253e378-b79e-4fde-809b-602eeef2ec6d",
+    "data": [
+      {
+        "text": "top películas de ",
+        "userDefined": false
+      },
+      {
+        "text": "acción",
+        "alias": "genre",
+        "meta": "@genre",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "españolas",
+        "alias": "country",
+        "meta": "@country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634407
+  },
+  {
+    "id": "6ef6d4a7-9b0c-49fa-97e0-2810876b281b",
+    "data": [
+      {
+        "text": "top ",
+        "userDefined": false
+      },
+      {
+        "text": "thriller",
+        "alias": "genre",
+        "meta": "@genre",
+        "userDefined": false
+      },
+      {
+        "text": " entre ",
+        "userDefined": false
+      },
+      {
+        "text": "1990",
+        "alias": "yearFrom",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " y ",
+        "userDefined": false
+      },
+      {
+        "text": "2000",
+        "alias": "yearTo",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634407
+  },
+  {
+    "id": "a4d20491-3e55-42cd-8fd3-802bf7961506",
+    "data": [
+      {
+        "text": "top películas de ",
+        "userDefined": false
+      },
+      {
+        "text": "suspense",
+        "alias": "genre",
+        "meta": "@genre",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634407
+  },
+  {
+    "id": "fa66ee8e-7443-4522-9353-07fd687e246c",
+    "data": [
+      {
+        "text": "top de películas ",
+        "userDefined": false
+      },
+      {
+        "text": "españolas",
+        "alias": "country",
+        "meta": "@country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1551634407
+  }
+]

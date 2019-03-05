@@ -1,0 +1,74 @@
+[
+  {
+    "id": "f13753c8-8290-485e-a7cc-3bb1254ceade",
+    "data": [
+      {
+        "text": "Tiene galardones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549700957
+  },
+  {
+    "id": "fd2510f4-1691-431c-b62e-59d182943081",
+    "data": [
+      {
+        "text": "Tiene premios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549700957
+  },
+  {
+    "id": "c997b8d7-5660-4929-b7f5-c4fd791b1903",
+    "data": [
+      {
+        "text": "Qué galardones tiene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549700957
+  },
+  {
+    "id": "57a35f9a-a5f7-4dc7-b3ee-821430cdb5a2",
+    "data": [
+      {
+        "text": "Qué premios tiene",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549700957
+  },
+  {
+    "id": "ee6c4fe3-098c-45e3-83a6-77ebfc93e455",
+    "data": [
+      {
+        "text": "Galardones",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549700957
+  },
+  {
+    "id": "5735dff1-f59f-46e9-86e5-853f37406475",
+    "data": [
+      {
+        "text": "Premios",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1549700957
+  }
+]

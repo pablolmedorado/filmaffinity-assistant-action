@@ -1,0 +1,58 @@
+{
+  "id": "7fd8e7d8-102c-4814-a74e-6285167eb6d4",
+  "name": "top movies",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eaabaf35-55a4-4167-8ca5-187939710f7b",
+          "dataType": "@country",
+          "name": "country",
+          "value": "$country",
+          "isList": false
+        },
+        {
+          "id": "26f12270-a957-482a-ad5f-ed67ddd21d81",
+          "dataType": "@genre",
+          "name": "genre",
+          "value": "$genre",
+          "isList": false
+        },
+        {
+          "id": "5cd2221a-0cc6-4f22-bebb-d8e6478982f3",
+          "dataType": "@sys.number",
+          "name": "yearFrom",
+          "value": "$yearFrom",
+          "isList": false
+        },
+        {
+          "id": "399ec338-130b-48ec-856a-f3b885fadb87",
+          "dataType": "@sys.number",
+          "name": "yearTo",
+          "value": "$yearTo",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "es",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1551634407,
+  "fallbackIntent": false,
+  "events": []
+}
